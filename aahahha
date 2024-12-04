@@ -1,0 +1,9 @@
+# login = input("Enter your email: ")
+# password = input("Enter your password: ")
+right_login = "skibidi toilet"
+right_password = 125 #з двох цифр
+
+for h in range(10):
+   for t in range(10):
+     for f in range(10):
+    pas = h*100 = t*100
